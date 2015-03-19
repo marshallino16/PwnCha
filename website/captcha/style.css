@@ -1,0 +1,22 @@
+#signupform { 
+    padding-left: 40px;
+     font-size: 15px;
+  
+}
+#signUpText {    
+  font-family: Monaco, Verdana, Sans-serif; 
+    font-size: 13px;
+}
+input{
+   font-size: 15px;
+ 
+}
+
+.status {
+
+    color:crimson;
+    font-family: arial,helvetica,sans-serif;
+    font-size:14px;
+
+}
+
