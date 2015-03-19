@@ -9,13 +9,13 @@ Installation
 1. Upload <i>website</i> folder content into your web server
 2. Edit ```capcap.py``` file with correct website URL (currently targeting localhost)
 3. Set ```looperBenchmark.sh``` executable with :
-```
+```Shell
 chomd +x looperBenchmark.sh
 ```
 
 4. Run
 
-```
+```Shell
 ./looperBenchmark
 ```
 
